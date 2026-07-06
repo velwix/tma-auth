@@ -1,6 +1,6 @@
 {
   "name": "@velwix/tma-auth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ultra-lightweight and universal Telegram Mini App auth validation for Cloudflare Workers, Hono, and Node.js",
   "type": "module",
   "main": "./src/index.js",
